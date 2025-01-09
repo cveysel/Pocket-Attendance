@@ -4,7 +4,7 @@ Pocket Attendance is a user-friendly app designed to make attendance tracking ef
 ## Screenshots
 
 ### Login and Registration Screen
-<div style="display: flex; justify-content: space-around;">gin and Registration Screen
+<div style="display: flex; justify-content: space-around;">
 <img src="images/Screenshot_2025-01-09-17-09-41-961_com.example.yoklamaceptever3.jpg" alt="Screenshot" width="200"/>
 <img src="images/Screenshot_2025-01-09-17-09-44-725_com.example.yoklamaceptever3.jpg" alt="Screenshot" width="200"/>
 </div>
