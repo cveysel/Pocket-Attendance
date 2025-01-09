@@ -3,11 +3,19 @@ Pocket Attendance is a user-friendly app designed to make attendance tracking ef
 
 ## Screenshots
 
-### Login Screen
+### Login and Registration Screen
+<div style="display: flex; justify-content: space-around;">gin and Registration Screen
 <img src="images/Screenshot_2025-01-09-17-09-41-961_com.example.yoklamaceptever3.jpg" alt="Screenshot" width="200"/>
-
-### Registration Screen
 <img src="images/Screenshot_2025-01-09-17-09-44-725_com.example.yoklamaceptever3.jpg" alt="Screenshot" width="200"/>
+</div>
+
+### Attendance Process
+<div style="display: flex; justify-content: space-around;">
+<img src="images/Screenshot_2025-01-09-17-10-22-463_com.example.yoklamaceptever3.jpg" alt="Screenshot" width="200"/>
+<img src="images/Screenshot_2025-01-09-17-10-25-845_com.example.yoklamaceptever3.jpg" alt="Screenshot" width="200"/>
+<img src="images/Screenshot_2025-01-09-17-10-32-657_com.example.yoklamaceptever3.jpg" alt="Screenshot" width="200"/>
+<img src="images/Screenshot_2025-01-09-17-10-44-328_com.example.yoklamaceptever3.jpg" alt="Screenshot" width="200"/>
+</div>
 
 ### Home Screen
 <img src="images/Screenshot_2025-01-09-17-09-58-283_com.example.yoklamaceptever3.jpg" alt="Screenshot" width="200"/>
@@ -18,12 +26,6 @@ Pocket Attendance is a user-friendly app designed to make attendance tracking ef
 ### Joın The Class
 <img src="images/Screenshot_2025-01-09-17-10-02-928_com.example.yoklamaceptever3.jpg" alt="Screenshot" width="200"/>
 
-<div style="display: flex; justify-content: space-around;">
-### Attendance Process
-<img src="images/Screenshot_2025-01-09-17-10-22-463_com.example.yoklamaceptever3.jpg" alt="Screenshot" width="200"/>
-<img src="images/Screenshot_2025-01-09-17-10-25-845_com.example.yoklamaceptever3.jpg" alt="Screenshot" width="150"/>
-<img src="images/Screenshot_2025-01-09-17-10-32-657_com.example.yoklamaceptever3.jpg" alt="Screenshot" width="150"/>
-<img src="images/Screenshot_2025-01-09-17-10-44-328_com.example.yoklamaceptever3.jpg" alt="Screenshot" width="150"/>
-</div>
+
 
 
