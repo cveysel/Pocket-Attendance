@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "950526116761",
+    "project_id": "yoklamacepte",
+    "storage_bucket": "yoklamacepte.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950526116761:android:9c4b2c44a70c75becd0908",
+        "android_client_info": {
+          "package_name": "com.example.bitirmeprojem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXWptwLCVTOBCe1n16GGkNZXkOS9Xgf_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950526116761:android:321e0561d4bff0e8cd0908",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXWptwLCVTOBCe1n16GGkNZXkOS9Xgf_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950526116761:android:30a4c81836bfd068cd0908",
+        "android_client_info": {
+          "package_name": "com.example.yoklamaceptever3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXWptwLCVTOBCe1n16GGkNZXkOS9Xgf_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Yoklamaceptever3"
+        tools:targetApi="31">
+
+        <activity
+            android:name=".Yoklama"
+            android:exported="false" />
+        <activity
+            android:name=".KisiListesiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".DersListesiActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ParolaSifirla"
+            android:exported="false" />
+        <activity
+            android:name=".AnaSayfa"
+            android:exported="false" />
+        <activity
+            android:name=".KayitActivity"
+            android:exported="false" />
+        <activity
+            android:name=".GirisActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

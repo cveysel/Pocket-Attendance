@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="24dp">
+
+    <!-- Sınıf Kodu Girme Alanı -->
+    <EditText
+        android:id="@+id/editTextClassCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Sınıf Kodu"
+        android:inputType="number" />
+
+    <!-- Katıl Butonu -->
+    <Button
+        android:id="@+id/buttonJoinClass"
+        android:layout_width="match_parent"
+        android:backgroundTint="#48B341"
+        android:layout_height="wrap_content"
+        android:text="Katıl"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>
