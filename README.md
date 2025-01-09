@@ -4,6 +4,6 @@ Pocket Attendance is a user-friendly app designed to make attendance tracking ef
 ## Screenshots
 
 ### Home Screen
-![Ana Sayfa](images/Screenshot_2025-01-09-17-09-41-961_com.example.yoklamaceptever3)
+![Ana Sayfa](images/Screenshot_2025-01-09-17-09-41-961_com.example.yoklamaceptever3.jpg)
 This is the home screen where users can see their classes and take attendance.
 
